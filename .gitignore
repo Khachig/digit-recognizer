@@ -1,0 +1,7 @@
+__pycache__
+env
+*.sublime-*
+my_data
+trained_models
+training_data
+test_data
